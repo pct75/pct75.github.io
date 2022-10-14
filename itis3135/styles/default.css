@@ -2,13 +2,8 @@ body{
   background-color: burlywood;
   font-family: 'Roboto', sans-serif;
 }
-h1{
+
+header, h1{
   text-align: center;
   font-family: 'Roboto', sans-serif; 
-}
-
-header{
-  text-align: center;
-  font-family: 'Roboto', sans-serif;
-  color: 
 }
