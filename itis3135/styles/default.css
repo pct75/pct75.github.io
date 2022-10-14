@@ -17,3 +17,9 @@ footer{
   text-align: center;
   font-family: 'Roboto', sans-serif;
 }
+
+.picture{
+  width: 500px;
+  height: 500px;
+  display: block;
+}
