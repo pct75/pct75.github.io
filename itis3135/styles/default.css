@@ -9,9 +9,9 @@ header, h1{
 }
 
 footer{
-  text-align: center;
   position: fixed;
   bottom: 0;
+  width: 50%;
 }
 
 .center{
